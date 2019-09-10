@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -30,4 +30,22 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.searcheePluse {
+    min-width: 40px;
+    min-height: 40px;
+    max-width: 40px;
+    max-height: 40px;
+    background: #ed1c402b;
+    border-radius: 50%;
+    transition: all 1s;
+    z-index: 4;
+    font-size: 25px;
+}
+
+.basicColorRed {
+  color: #ed1c40 !important;
+  font-size: 20px;
+  margin-left: -3px;
 }
