@@ -1,3 +1,10 @@
+This is an example of modal in react that i build.
+I am using bootstrap 4 (4.3.1) & jquery & font-awesome 4 (4.7.0) for plue icon.
+You can use axios for calling the server i imported it (in comment in addEmergencySurgery function)
+I am thinking that is nice example, so if you have remarks write to me.
+Enjoy
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
